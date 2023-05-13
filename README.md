@@ -1,0 +1,3 @@
+# Car_license_plate_recognition
+
+基于Opencv的汽车车牌识别
